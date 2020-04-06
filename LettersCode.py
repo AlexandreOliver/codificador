@@ -27,6 +27,5 @@ codificar = {
     "z": "a"
 }
 
-
 listapalavra = list()
 newpalavra = list()
