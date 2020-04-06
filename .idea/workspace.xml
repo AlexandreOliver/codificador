@@ -103,12 +103,20 @@
       <option name="project" value="LOCAL" />
       <updated>1586152852620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação do arquivo de funções. &#10;Alteração na codificação.&#10;correctt">
+      <created>1586153460439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586153460439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do arquivo de funções. Alteração na codificação." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do arquivo de funções. Alteração na codificação." />
+    <MESSAGE value="Criação do arquivo de funções. &#10;Alteração na codificação.&#10;correctt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do arquivo de funções. &#10;Alteração na codificação.&#10;correctt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1586142961054">
@@ -119,11 +127,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586151674949" />
+<<<<<<< Updated upstream
     <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1586187352403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586187352403" />
     <state width="1515" height="460" key="GridCell.Tab.0.bottom" timestamp="1586187302263">
+=======
+    <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1586153458097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586153458097" />
+    <state width="1515" height="460" key="GridCell.Tab.0.bottom" timestamp="1586153091132">
+>>>>>>> Stashed changes
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="460" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586187302263" />
