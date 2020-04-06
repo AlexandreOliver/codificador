@@ -27,12 +27,6 @@ codificar = {
     "z": "a"
 }
 
-decodificar = dict()
-
-while True:
-    for k, v in codificar.items():
-        decodificar[v] = k
-    break
 
 listapalavra = list()
 newpalavra = list()
