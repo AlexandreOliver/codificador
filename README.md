@@ -1,6 +1,6 @@
 # Codificador de palavras
 
-    Este codificador altera as palavras digitadas pelo user com o contrário delas.
+    Este codificador substitiu as palavras digitadas pelo usuário com o contrário delas.
 
     Por exemplo, se digitar "A" o programa retorna com "Z".
 
