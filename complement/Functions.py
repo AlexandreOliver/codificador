@@ -1,5 +1,6 @@
 from complement.LettersCode import codificar, newpalavra, listapalavra
 
+
 def codific():
     for ind in listapalavra:  # para cada índice na lista:
         if ind in codificar.keys():  # se esse indice estiver nas chaves do dict codificar
@@ -8,5 +9,3 @@ def codific():
             newpalavra.append(ind)  # add
         elif ind in '1234567890¹²³""':
             newpalavra.append(ind)  # add
-
-
