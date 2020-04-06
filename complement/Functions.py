@@ -9,3 +9,5 @@ def codific():
             newpalavra.append(codificar[ind])  # adiciona o valor dessa chave em uma nova lista
         elif ind in " ":  # se tiver um espaço
             newpalavra.append(ind)  # adiciona
+        elif ind in ",.:;!?@#$%&*(){}[]<>_-+=/°":
+            newpalavra.append(ind)  # add
