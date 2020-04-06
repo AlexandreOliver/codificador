@@ -1,6 +1,6 @@
-from LettersCode import listapalavra
-from LettersCode import newpalavra
-from LettersCode import codificar
+from complement.LettersCode import listapalavra
+from complement.LettersCode import newpalavra
+from complement.LettersCode import codificar
 
 
 def codific():

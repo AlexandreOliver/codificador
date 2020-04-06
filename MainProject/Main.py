@@ -1,6 +1,6 @@
-from Functions import codific
-from LettersCode import listapalavra
-from LettersCode import newpalavra
+from complement.Functions import codific
+from complement.LettersCode import listapalavra
+from complement.LettersCode import newpalavra
 from time import sleep
 
 while True:

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebd0c648-2d91-415c-b827-d332ce2dca6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/complement/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LettersCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/complement/LettersCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainProject/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,12 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roberto\Desktop\Richard\codificador\complement" />
+      <recent name="C:\Users\roberto\Desktop\Richard\codificador\MainProject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codificador" />
@@ -55,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\roberto\Desktop\Richard\codificador\Main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\roberto\Desktop\Richard\codificador\MainProject\Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,22 +123,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586152849045" />
-    <state width="1515" height="460" key="GridCell.Tab.0.bottom" timestamp="1586153091132">
+    <state width="1515" height="460" key="GridCell.Tab.0.bottom" timestamp="1586187302263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="460" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586153091132" />
-    <state width="1515" height="460" key="GridCell.Tab.0.center" timestamp="1586153091132">
+    <state width="1515" height="460" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586187302263" />
+    <state width="1515" height="460" key="GridCell.Tab.0.center" timestamp="1586187302263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="460" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586153091132" />
-    <state width="1515" height="460" key="GridCell.Tab.0.left" timestamp="1586153091132">
+    <state width="1515" height="460" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586187302263" />
+    <state width="1515" height="460" key="GridCell.Tab.0.left" timestamp="1586187302263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="460" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586153091132" />
-    <state width="1515" height="460" key="GridCell.Tab.0.right" timestamp="1586153091132">
+    <state width="1515" height="460" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586187302263" />
+    <state width="1515" height="460" key="GridCell.Tab.0.right" timestamp="1586187302263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="460" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586153091132" />
+    <state width="1515" height="460" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586187302263" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586147163147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
