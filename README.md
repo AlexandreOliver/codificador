@@ -1,0 +1,2 @@
+# codificador
+ Codificador de palavras
