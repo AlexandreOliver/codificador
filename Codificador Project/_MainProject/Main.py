@@ -21,7 +21,7 @@ while True:
 
     sleep(0.1)
     print("-=" * 20)
-    palavra = str(input("Palavra: (palavra sem acento) ")).strip().lower()
+    palavra = str(input("Palavra: ")).strip().lower()
 
     for i in palavra:
         listapalavra.append(i)
