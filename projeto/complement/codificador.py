@@ -1,5 +1,4 @@
-from complement.LettersCode import codificar, newpalavra, listapalavra
-
+from complement.combination import *
 
 def codific():
     for ind in listapalavra:  # para cada índice na lista:

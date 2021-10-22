@@ -1,5 +1,5 @@
-from complement.Functions import codific
-from complement.LettersCode import listapalavra, newpalavra
+from complement.codificador import codific
+from complement.combination import listapalavra, newpalavra
 from time import sleep
 
 while True:
