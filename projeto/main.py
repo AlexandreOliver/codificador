@@ -1,6 +1,5 @@
-from Functions import codific
-from LettersCode import listapalavra
-from LettersCode import newpalavra
+from complement.codificador import codific
+from complement.combination import listapalavra, newpalavra
 from time import sleep
 
 while True:
@@ -22,7 +21,7 @@ while True:
 
     sleep(0.1)
     print("-=" * 20)
-    palavra = str(input("Palavra: (palavra sem acento) ")).strip().lower()
+    palavra = str(input("Palavra: ")).strip().lower()
 
     for i in palavra:
         listapalavra.append(i)
