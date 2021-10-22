@@ -6,7 +6,3 @@
 
 
 Programa simples com intuito a aprender.
-
- Codificação em Python
-
- Codificador de palavras a = z.
